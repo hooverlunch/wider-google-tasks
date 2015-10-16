@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name           Wider Google Tasks
+// @locale         en
+// @description:en Makes the Google Calendar tasks window wide enough to actually use!
 // @namespace      http://tomsmyth.ca
 // @match          https://calendar.google.com/*
 // @match          https://www.google.com/calendar/*
+// @version        1.01
 // ==/UserScript==
 
 setTimeout(function(){
